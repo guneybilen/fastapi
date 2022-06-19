@@ -1,0 +1,7 @@
+fastapi
+sqlalchemy
+python-dotenv
+validate_email
+pydantic
+python_jose
+passlib
